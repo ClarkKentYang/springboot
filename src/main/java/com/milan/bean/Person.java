@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  * @ConfigurationProperties    将本类中的属性与配置文件相关配置进行绑定
- * @Component   注入bean
+ * @Component   注入bean 新
  * @Validated   数据校验
  * @PropertySource(value = {"classpath:person.properties"}) 导入单独的配置文件
  */
