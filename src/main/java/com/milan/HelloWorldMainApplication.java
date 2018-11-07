@@ -13,6 +13,7 @@ import org.springframework.context.annotation.ImportResource;
 public class HelloWorldMainApplication {
 
     public static void main(String[] args) {
+        //这是master
         SpringApplication.run(HelloWorldMainApplication.class,args);
     }
 
