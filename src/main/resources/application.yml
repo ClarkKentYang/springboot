@@ -1,6 +1,6 @@
 server:
   port: 8081
 
-#person:
-#  username: kaka
-#  age: 22
+person:
+  username: kaka ${random.uuid}
+  age: 22

@@ -1,0 +1,6 @@
+1.配置文件默认扫描路径
+-file:./config/
+-file:./
+-classpath:/config
+-classpath:/
+优先级由高到低，互补配置
